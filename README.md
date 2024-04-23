@@ -1,7 +1,7 @@
 
 <img width= "20%" src="https://user-images.githubusercontent.com/46229052/196671093-21ba3438-719d-4dd4-ad79-bfddd1395663.png" align="right" />
 
-# PureEdgeSim
+# PureEdgeSim Simulator
 
 PureEdgeSim: A simulation framework for performance evaluation of cloud, edge and mist computing environments
 
